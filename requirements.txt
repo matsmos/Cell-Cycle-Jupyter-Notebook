@@ -1,0 +1,8 @@
+numpy
+jinja2==3.0.3
+voila
+ipywidgets
+scipy
+matplotlib
+IPython
+pandas
